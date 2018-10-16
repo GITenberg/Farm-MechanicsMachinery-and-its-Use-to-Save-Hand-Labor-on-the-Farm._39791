@@ -22,6 +22,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Agricultural machinery'
 - !lcc 'S'
+- GITenberg
 tableOfContents: The farm shop with tools for working wood and iron -- Farm shop work
   -- Generating mechanical power to drive modern farm machinery -- Driven machines
   -- Working the soil -- Handling the hay crop -- Farm conveyances -- Miscellaneous
